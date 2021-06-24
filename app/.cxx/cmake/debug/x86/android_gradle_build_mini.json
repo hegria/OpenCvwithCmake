@@ -1,0 +1,35 @@
+{
+  "buildFiles": [
+    "C:\\Users\\lg\\AndroidStudioProjects\\OpenCvwithCmake\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\lg\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\lg\\AndroidStudioProjects\\OpenCvwithCmake\\app\\.cxx\\cmake\\debug\\x86",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\lg\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\lg\\AndroidStudioProjects\\OpenCvwithCmake\\app\\.cxx\\cmake\\debug\\x86",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "native-lib-Debug-x86": {
+      "artifactName": "native-lib",
+      "buildCommandComponents": [
+        "C:\\Users\\lg\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\Users\\lg\\AndroidStudioProjects\\OpenCvwithCmake\\app\\.cxx\\cmake\\debug\\x86",
+        "native-lib"
+      ],
+      "abi": "x86",
+      "output": "C:\\Users\\lg\\AndroidStudioProjects\\OpenCvwithCmake\\app\\build\\intermediates\\cmake\\debug\\obj\\x86\\libnative-lib.so",
+      "runtimeFiles": [
+        "C:\\Users\\lg\\AndroidStudioProjects\\OpenCvwithCmake\\sdk\\native\\libs\\x86\\libopencv_java4.so"
+      ]
+    }
+  }
+}

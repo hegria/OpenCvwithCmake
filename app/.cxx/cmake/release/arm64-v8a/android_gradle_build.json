@@ -1,0 +1,42 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "C:\\Users\\lg\\AndroidStudioProjects\\OpenCvwithCmake\\app\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\lg\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\lg\\AndroidStudioProjects\\OpenCvwithCmake\\app\\.cxx\\cmake\\release\\arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\lg\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\lg\\AndroidStudioProjects\\OpenCvwithCmake\\app\\.cxx\\cmake\\release\\arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "native-lib-Release-arm64-v8a": {
+      "buildCommandComponents": [
+        "C:\\Users\\lg\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe",
+        "-C",
+        "C:\\Users\\lg\\AndroidStudioProjects\\OpenCvwithCmake\\app\\.cxx\\cmake\\release\\arm64-v8a",
+        "native-lib"
+      ],
+      "buildType": "release",
+      "abi": "arm64-v8a",
+      "artifactName": "native-lib",
+      "output": "C:\\Users\\lg\\AndroidStudioProjects\\OpenCvwithCmake\\app\\build\\intermediates\\cmake\\release\\obj\\arm64-v8a\\libnative-lib.so",
+      "runtimeFiles": [
+        "C:\\Users\\lg\\AndroidStudioProjects\\OpenCvwithCmake\\sdk\\native\\libs\\arm64-v8a\\libopencv_java4.so"
+      ]
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

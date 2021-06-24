@@ -1,0 +1,1 @@
+C:\Users\lg\AndroidStudioProjects\OpenCvwithCmake\app\build\intermediates\cmake\release\obj\x86

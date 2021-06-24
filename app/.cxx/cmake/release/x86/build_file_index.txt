@@ -1,0 +1,1 @@
+C:\Users\lg\AndroidStudioProjects\OpenCvwithCmake\app\src\main\cpp\CMakeLists.txt
