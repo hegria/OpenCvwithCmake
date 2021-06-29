@@ -21,7 +21,7 @@ ANDROID_ABI:UNINITIALIZED=armeabi-v7a
 ANDROID_NDK:UNINITIALIZED=C:\Users\lg\AppData\Local\Android\Sdk\ndk\21.4.7075529
 
 //No help, variable specified on the command line.
-ANDROID_PLATFORM:UNINITIALIZED=android-21
+ANDROID_PLATFORM:UNINITIALIZED=android-24
 
 //No help, variable specified on the command line.
 CMAKE_ANDROID_ARCH_ABI:UNINITIALIZED=armeabi-v7a
@@ -117,7 +117,7 @@ CMAKE_EXPORT_COMPILE_COMMANDS:BOOL=ON
 CMAKE_FIND_ROOT_PATH:UNINITIALIZED=C:\Users\lg\AndroidStudioProjects\OpenCvwithCmake\app\.cxx\cmake\debug\prefab\armeabi-v7a\prefab
 
 //Install path prefix, prepended onto install directories.
-CMAKE_INSTALL_PREFIX:PATH=C:/Program Files (x86)/opencvwithcmake
+CMAKE_INSTALL_PREFIX:PATH=C:/Program Files (x86)/Project
 
 //No help, variable specified on the command line.
 CMAKE_LIBRARY_OUTPUT_DIRECTORY:UNINITIALIZED=C:\Users\lg\AndroidStudioProjects\OpenCvwithCmake\app\build\intermediates\cmake\debug\obj\armeabi-v7a
@@ -205,7 +205,7 @@ CMAKE_STRIP:FILEPATH=C:/Users/lg/AppData/Local/Android/Sdk/ndk/21.4.7075529/tool
 CMAKE_SYSTEM_NAME:UNINITIALIZED=Android
 
 //No help, variable specified on the command line.
-CMAKE_SYSTEM_VERSION:UNINITIALIZED=21
+CMAKE_SYSTEM_VERSION:UNINITIALIZED=24
 
 //No help, variable specified on the command line.
 CMAKE_TOOLCHAIN_FILE:UNINITIALIZED=C:\Users\lg\AppData\Local\Android\Sdk\ndk\21.4.7075529\build\cmake\android.toolchain.cmake
@@ -223,16 +223,10 @@ Project_BINARY_DIR:STATIC=C:/Users/lg/AndroidStudioProjects/OpenCvwithCmake/app/
 Project_SOURCE_DIR:STATIC=C:/Users/lg/AndroidStudioProjects/OpenCvwithCmake/app/src/main/cpp
 
 //Path to a library.
-log-lib:FILEPATH=C:/Users/lg/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/arm-linux-androideabi/21/liblog.so
+log-lib:FILEPATH=C:/Users/lg/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/arm-linux-androideabi/24/liblog.so
 
 //Dependencies for the target
-native-lib_LIB_DEPENDS:STATIC=general;lib_opencv;general;C:/Users/lg/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/arm-linux-androideabi/21/liblog.so;
-
-//Value Computed by CMake
-opencvwithcmake_BINARY_DIR:STATIC=C:/Users/lg/AndroidStudioProjects/OpenCvwithCmake/app/.cxx/cmake/debug/armeabi-v7a
-
-//Value Computed by CMake
-opencvwithcmake_SOURCE_DIR:STATIC=C:/Users/lg/AndroidStudioProjects/OpenCvwithCmake/app/src/main/cpp
+native-lib_LIB_DEPENDS:STATIC=general;lib_opencv;general;C:/Users/lg/AppData/Local/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/windows-x86_64/sysroot/usr/lib/arm-linux-androideabi/24/liblog.so;
 
 
 ########################

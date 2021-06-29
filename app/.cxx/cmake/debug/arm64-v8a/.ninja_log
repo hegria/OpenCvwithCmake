@@ -1,3 +1,5 @@
 # ninja log v5
-1	2864	646203225	CMakeFiles/native-lib.dir/native-lib.cpp.o	c1b4bc572094b52d
-2871	3384	646203225	C:/Users/lg/AndroidStudioProjects/OpenCvwithCmake/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	2badd1cc0e3ec99c
+1	2622	646303210	CMakeFiles/native-lib.dir/native-lib.cpp.o	552f9b604fa5505
+2628	3066	646303211	C:/Users/lg/AndroidStudioProjects/OpenCvwithCmake/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	3909e52387e38009
+7	3385	646550469	CMakeFiles/native-lib.dir/native-lib.cpp.o	552f9b604fa5505
+3386	3969	646550469	C:/Users/lg/AndroidStudioProjects/OpenCvwithCmake/app/build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	3909e52387e38009

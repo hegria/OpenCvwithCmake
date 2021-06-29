@@ -4,13 +4,7 @@
 
 using namespace cv;
 
-extern "C" JNIEXPORT jstring JNICALL
-Java_com_example_opencvwithcmake_MainActivity_stringFromJNI(
-        JNIEnv* env,
-        jobject /* this */) {
-    std::string hello = "Hello from C++";
-    return env->NewStringUTF(hello.c_str());
-}extern "C"
+extern "C"
 JNIEXPORT void JNICALL
 Java_com_example_opencvwithcmake_MainActivity_ConvertRGBtoGray(JNIEnv *env, jobject thiz,
                                                                jlong mat_addr_input,

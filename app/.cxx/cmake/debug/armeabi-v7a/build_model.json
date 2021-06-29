@@ -8,7 +8,7 @@
   },
   "originalCxxBuildFolder": "C:\\Users\\lg\\AndroidStudioProjects\\OpenCvwithCmake\\app\\.cxx\\cmake\\debug\\armeabi-v7a",
   "cxxBuildFolder": "C:\\Users\\lg\\AndroidStudioProjects\\OpenCvwithCmake\\app\\.cxx\\cmake\\debug\\armeabi-v7a",
-  "abiPlatformVersion": 21,
+  "abiPlatformVersion": 24,
   "cmake": {
     "cmakeWrappingBaseFolder": "C:\\Users\\lg\\AndroidStudioProjects\\OpenCvwithCmake\\app\\.cxx\\cxx\\debug\\armeabi-v7a",
     "cmakeArtifactsBaseFolder": "C:\\Users\\lg\\AndroidStudioProjects\\OpenCvwithCmake\\app\\.cxx\\cmake\\debug\\armeabi-v7a",
@@ -45,7 +45,7 @@
         },
         {
           "name": "ANDROID_PLATFORM",
-          "value": "android-21"
+          "value": "android-24"
         },
         {
           "name": "CMAKE_ANDROID_ARCH_ABI",
@@ -77,7 +77,7 @@
         },
         {
           "name": "CMAKE_SYSTEM_VERSION",
-          "value": "21"
+          "value": "24"
         }
       ]
     },
